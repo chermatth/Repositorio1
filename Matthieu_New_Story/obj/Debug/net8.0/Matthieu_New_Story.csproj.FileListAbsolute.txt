@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\bin\Debug\net8.0\Matthieu_New_Story.exe
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\bin\Debug\net8.0\Matthieu_New_Story.deps.json
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\bin\Debug\net8.0\Matthieu_New_Story.runtimeconfig.json
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\bin\Debug\net8.0\Matthieu_New_Story.dll
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\bin\Debug\net8.0\Matthieu_New_Story.pdb
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\obj\Debug\net8.0\Matthieu_New_Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\obj\Debug\net8.0\Matthieu_New_Story.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\obj\Debug\net8.0\Matthieu_New_Story.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\obj\Debug\net8.0\Matthieu_New_Story.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\obj\Debug\net8.0\Matthieu_New_Story.sourcelink.json
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\obj\Debug\net8.0\Matthieu_New_Story.dll
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\obj\Debug\net8.0\refint\Matthieu_New_Story.dll
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\obj\Debug\net8.0\Matthieu_New_Story.pdb
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\obj\Debug\net8.0\Matthieu_New_Story.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Git\Jogo\Repositorio1\Matthieu_New_Story\obj\Debug\net8.0\ref\Matthieu_New_Story.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Matthieu_New_Story/1.0.0": {
+        "runtime": {
+          "Matthieu_New_Story.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matthieu_New_Story/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
